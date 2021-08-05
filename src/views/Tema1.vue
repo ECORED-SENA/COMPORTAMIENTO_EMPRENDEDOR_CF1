@@ -11,7 +11,7 @@
 
     .row.justify-content-center.align-items-center.mt-5
       .col-12.col-lg-12.mb-5
-        img(src="@/assets/curso/images/tema1/img_1.svg" alt="", style="width:800px;").m-auto
+        img(src="@/assets/curso/images/tema1/img_1.svg" alt="", style="width:600px;").m-auto
 
     p.mb-3 Como resultado de esas investigaciones, se han identificado un conjunto de características que están presentes, en mayor o menor medida, en todos los seres humanos, y que influyen en el desempeño de los individuos para la realización de cualquier tarea. Ese conjunto de diez características se ha denominado “características emprendedoras personales”. 
 
@@ -48,16 +48,7 @@
 
 
 
-    br
-    br
-    br
-    br
-    br
-    br
-    br
-    br
-    br
-    Muestras
+   
   
 </template>
 
