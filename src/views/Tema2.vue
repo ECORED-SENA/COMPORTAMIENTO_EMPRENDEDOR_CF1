@@ -10,6 +10,8 @@
 
     .row
       .col-12.col-md-8.col-lg-6.col-xl-6
+        br
+        
         p.mb-3 Al referirse a la visión emprendedora se habla de cómo un emprendedor se proyecta en el futuro, lo que espera lograr en un tiempo determinado.
 
         p.mb-3 En este segundo tema, se profundizará acerca de los elementos que se deben tener en cuenta al momento de definir la visión emprendedora; uno de ellos es la motivación personal.
@@ -17,22 +19,15 @@
         p Es momento de iniciar con el primer concepto: de acuerdo a lo planteado por Purkait et al. (2013) en la práctica, es imposible medir una variable con exactitud perfecta ya que siempre existirá una diferencia entre el valor medido con el instrumento y el valor real de la variable desconocida. Sin embargo, es posible determinar qué tan cerca o tal lejos se está de dicho valor real; la diferencia entre el valor real y el valor medido por el instrumento se denomina error absoluto.
         br
       
-        .tarjeta.color-custom.p-3.mb-5
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-2
-              img(src="@/assets/curso/images/tema2/cf1_play.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h3.mb-1.text-white Video visión emprendedora
-                  p.text-small.text-white Para mayor comprensión del tema, es importante consultar el siguiente video institucional del SENA, el cual explica los objetivos y características de nuestros sueños en la visión emprendedora:
-                .col-sm-auto
-                  a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download
-      
-      .col-12.col-md-8.col-lg-6.col-xl-6
+      .col-12.col-md-8.col-lg-6.col-xl-6.mb-5
         img.img-a.my-3(src="@/assets/curso/images/tema2/img_2.png" alt="", style="width:400px; display:block; margin:0 auto;") 
+      h5.mb-3 Video visión emprendedora
+      p.mb-5 Para mayor comprensión del tema, es importante consultar el siguiente video institucional del SENA, el cual explica los objetivos y características de nuestros sueños en la visión emprendedora.
+    .row.justify-content-center.align-items-center.mb-3
+      .col-12.col-md-8.col-lg-6.col-xl-10
+        .video.mb-3 
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            figcaption 
     
     
     p.mb-5 El psicólogo estadounidense McClelland (1961) desarrolló la teoría de las necesidades, en la que se presentan tres tipos de necesidades que tienen los seres humanos en menor o mayor medida, las cuales son la fuente de su motivación, y guían a las personas al cumplimiento de sus objetivos:

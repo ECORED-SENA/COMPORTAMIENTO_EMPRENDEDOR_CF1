@@ -10,28 +10,24 @@
 
     .row
       .col-12.col-md-8.col-lg-6.col-xl-7
+        br
+        br
+        br
         p.mb-3 En esta sección se abordará la importancia de analizar el contexto identificando las oportunidades y limitaciones que se le presentan para el logro de objetivos. 
 
-        p También conocerá el concepto del triángulo de la responsabilidad en profundidad, uno de los elementos del comportamiento emprendedor que permitirá comprender las dimensiones emprendedoras, ya que combina las dimensiones de la persona con los factores internos y externos para el logro de los objetivos. 
-        br
-
-        .tarjeta.color-custom.p-3.mb-5
-          .row.justify-content-around.align-items-center
-            .col-3.col-sm-2.col-lg-2
-              img(src="@/assets/curso/images/tema3/cf1_play.svg")
-            .col
-              .row.justify-content-between.align-items-center
-                .col.mb-3.mb-sm-0
-                  h3.mb-1.text-white Video dimensiones emprendedoras
-                  p.text-small.text-white Para mayor comprensión del tema, es importante consultar el siguiente video institucional del SENA, el cual explica la importancia de reconocer el entorno, identificando fortalezas y debilidades, al igual que oportunidades y amenazas como se expone a continuación:
-                .col-sm-auto
-                  a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download
+        p.mb-3 También conocerá el concepto del triángulo de la responsabilidad en profundidad, uno de los elementos del comportamiento emprendedor que permitirá comprender las dimensiones emprendedoras, ya que combina las dimensiones de la persona con los factores internos y externos para el logro de los objetivos. 
+        
       
-      .col-12.col-md-8.col-lg-5.col-xl-5
-        img(src="@/assets/curso/images/tema3/img_1.png" alt="", style="width:400px; display:block; margin:0 auto;")     
-          
+      .col-12.col-md-8.col-lg-5.col-xl-5.mb-5
+        img(src="@/assets/curso/images/tema3/img_1.png" alt="", style="width:400px; display:block; margin:0 auto;")
+      h5.mb-3 Video dimensiones emprendedoras
+      p.mb-5 Para mayor comprensión del tema, es importante consultar el siguiente video institucional del SENA, el cual explica la importancia de reconocer el entorno, identificando fortalezas y debilidades, al igual que oportunidades y amenazas como se expone a continuación:   
+    .row.justify-content-center.align-items-center.mb-3
+      .col-12.col-md-8.col-lg-6.col-xl-10
+        .video.mb-3 
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            figcaption 
+
     p.mb-3 Una de las preguntas que guiaron el trabajo sobre el emprendimiento realizado por McClelland (1961) es: ¿Qué elementos influyen en el éxito de un emprendedor? Los rasgos de la personalidad tienen una importancia significativa, pero hay otros factores que van más allá de las características personales que interfieren en el éxito. 
 
     p.mb-5 De esta manera, hay factores internos y externos que influyen en el logro de objetivos como: 

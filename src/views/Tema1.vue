@@ -17,9 +17,12 @@
 
     p.mb-5 A continuación, se presentan las características emprendedoras personales:
 
-    .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption 
+    .row.justify-content-center.align-items-center.mb-3
+      .col-12.col-md-8.col-lg-6.col-xl-10
+        .video.mb-3 
+    
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption 
 
 
 
