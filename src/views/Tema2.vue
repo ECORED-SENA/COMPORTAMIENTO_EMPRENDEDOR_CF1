@@ -148,16 +148,16 @@
 
     .row.justify-content-center.align-items-center.mb-5
             .col-sm.mt-3
-                ul.lista-ul--color
+                ul.lista-ul
                   li 
-                    i.fas.fa-check
+                    i.fas.fa-angle-right
                     | Las características emprendedoras personales.
                   li 
-                    i.fas.fa-check
+                    i.fas.fa-angle-right
                       
                     | Las competencias emprendedoras.
                   li 
-                    i.fas.fa-check
+                    i.fas.fa-angle-right
                     
                     | La responsabilidad emprendedora, que no es otra cosa que el compromiso que asume el emprendedor consigo mismo y con su proyecto, sin olvidar el contexto que le rodea. Dicho elemento, que es representado a través del triángulo de la responsabilidad, será presentado con más de
     .row.justify-content-center.align-items-center.mb-5
