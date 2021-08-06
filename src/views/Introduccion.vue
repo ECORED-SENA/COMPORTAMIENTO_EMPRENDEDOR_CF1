@@ -14,7 +14,7 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption 
     
-    p.mb-3 Antes de iniciar esta formación, es importante conocer el significado de la palabra emprendimiento, cuyo concepto proviene del término inglés entrepreneur que significa “pionero” que es una persona que tiene la capacidad de hacer un esfuerzo adicional para alcanzar una meta; alguien que comienza una travesía en busca de nuevos horizontes. 
+    p.mb-3 Antes de iniciar esta formación, es importante conocer el significado de la palabra emprendimiento, cuyo concepto proviene del término inglés <b> <i>entrepreneur</i> </b> que significa “pionero” que es una persona que tiene la capacidad de hacer un esfuerzo adicional para alcanzar una meta; alguien que comienza una travesía en busca de nuevos horizontes. 
 
     p.mb-3 El emprendimiento es la actitud que permite decidirse por una idea que se convertirá en un proyecto de vida, ya sea en términos sociales, individuales, culturales y económicos. El interés primordial del emprendimiento no se centra únicamente en la posibilidad de consolidar una idea de negocio y crear empresa; así el emprendimiento está relacionado con el desarrollo humano y económico, con el mejoramiento de las condiciones de vida en los contextos en los que tiene impacto la idea y la concreción de las aspiraciones personales que motivan al emprendedor.
 

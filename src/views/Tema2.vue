@@ -159,7 +159,7 @@
                   li 
                     i.fas.fa-angle-right
                     
-                    | La responsabilidad emprendedora, que no es otra cosa que el compromiso que asume el emprendedor consigo mismo y con su proyecto, sin olvidar el contexto que le rodea. Dicho elemento, que es representado a través del triángulo de la responsabilidad, será presentado con más de
+                    | La responsabilidad emprendedora, que no es otra cosa que el compromiso que asume el emprendedor consigo mismo y con su proyecto, sin olvidar el contexto que le rodea. Dicho elemento, que es representado a través del triángulo de la responsabilidad, será presentado con más detalle en el siguiente tema.
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-6
           img(src="@/assets/curso/images/tema2/img_7.svg" alt="", style="width:500px; display:block; margin: 0 auto;")            
