@@ -13,11 +13,8 @@
         p.mb-3 En esta sección se abordará la importancia de analizar el contexto identificando las oportunidades y limitaciones que se le presentan para el logro de objetivos. 
 
         p También conocerá el concepto del triángulo de la responsabilidad en profundidad, uno de los elementos del comportamiento emprendedor que permitirá comprender las dimensiones emprendedoras, ya que combina las dimensiones de la persona con los factores internos y externos para el logro de los objetivos. 
-    
-      .col-12.col-md-8.col-lg-5.col-xl-5
-        img(src="@/assets/curso/images/tema3/img_1.png" alt="", style="width:400px; display:block; margin:0 auto;") 
-        
-      .col-12.col-md-8.col-lg-6.col-xl-7
+        br
+
         .tarjeta.color-custom.p-3.mb-5
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-2
@@ -32,6 +29,8 @@
                     span Descargar
                     i.fas.fa-file-download
       
+      .col-12.col-md-8.col-lg-5.col-xl-5
+        img(src="@/assets/curso/images/tema3/img_1.png" alt="", style="width:400px; display:block; margin:0 auto;")     
           
     p.mb-3 Una de las preguntas que guiaron el trabajo sobre el emprendimiento realizado por McClelland (1961) es: ¿Qué elementos influyen en el éxito de un emprendedor? Los rasgos de la personalidad tienen una importancia significativa, pero hay otros factores que van más allá de las características personales que interfieren en el éxito. 
 
