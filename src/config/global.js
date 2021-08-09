@@ -203,28 +203,28 @@ export default {
         nombre: 'Dayra Maritza Paz Calderón',
         cargo: 'Diseñadora instruccional',
         centro:
-          'SENA. Centro de Diseño y Metrología (Regional Distrito Capital).',
+          'SENA. Centro de Diseño y Metrología - Regional Distrito Capital.',
       },
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Miguel Ricardo Rivera Lizcano',
         cargo: 'Experto temático',
-        centro: 'Sena. Regional Huila',
+        centro: 'Sena - Regional Huila',
       },
       {
         nombre: 'Claudia Milena Hernández Naranjo',
         cargo: 'Diseñador Instruccional',
-        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital ',
       },
       {
         nombre: 'Carolina Coca Salazar',
         cargo: 'Revisora metodológica y pedagógica',
-        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -232,43 +232,43 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'Luis Zenen Arévalo Mantilla',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Gustavo Adolfo Marún Suárez',
         cargo: 'Desarrollo Front-End',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
-      {
-        nombre: 'Nombre',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
+      //{
+      //  nombre: 'Nombre',
+      //  cargo: 'Producción audiovisual',
+      //  centro:
+      //    'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      //},
       {
         nombre: 'Nombre',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },
