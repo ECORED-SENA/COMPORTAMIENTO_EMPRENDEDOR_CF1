@@ -37,7 +37,7 @@
         .blockquote
           img.img-a(src="@/assets/curso/images/tema2/ico_1.svg" alt="")
           .p-4
-            p.text-center <b>Necesidad de logro:</b>
+            p.text-center <b>Necesidad de logro</b>
             p.mb-3.text-center Se refiere a la resolución de problemas, alcanzar metas y lograr el éxito en situaciones difíciles. Para este tipo de personas las metas suponen un reto, y el logro genera satisfacción por la dificultad que suponen las mismas.
 
             p.mb-3.text-center Las características emprendedoras personales ligadas a esta necesidad son: buscar oportunidades y tomar iniciativas, ser persistente, exigir eficiencia y calidad, cumplir compromisos, y tomar riesgos moderados.
@@ -45,7 +45,7 @@
         .blockquote
           img.img-a(src="@/assets/curso/images/tema2/ico_2.svg" alt="")
           .p-4
-            p.text-center <b>Necesidad de poder:</b>
+            p.text-center <b>Necesidad de poder</b>
             p.mb-3.text-center Es la motivación para controlar a otras personas u organizaciones por poder y prestigio. Son personas que disfrutan generando discusiones y aplicando normas, se sienten cómodos en situaciones competitivas con posibilidades de generar colaboración.
 
           p.mb-3.text-center Las características emprendedoras personales ligadas a esta necesidad son: crear redes de apoyo y tener autoconfianza
@@ -53,7 +53,7 @@
         .blockquote
           img.img-a(src="@/assets/curso/images/tema2/ico_3.svg" alt="")
           .p-4
-            p.text-center <b>Necesidad de afiliación:</b>
+            p.text-center <b>Necesidad de afiliación</b>
             p.mb-3.text-center  La motivación surge de la necesidad de sentirse parte de un grupo, tienen gran interés en las relaciones sociales, por lo que buscan ser aceptados y apreciados. Son personas que les gusta ayudar a los demás y siguen reglas por temor al rechazo. Lo asocian a la planificación por lo que las características emprendedoras personales son: fijar metas, planificar sistemáticamente y buscar información.
 
 
@@ -91,7 +91,9 @@
 
           p.mb-3 De manera simple se puede definir la visión como los sueños en acción. La visión une los deseos, las expectativas y las metas que desean lograr en la vida, en distintas órdenes y esferas, ubicados en el escenario de lo que se hace diariamente, de la planificación de acciones que realiza y, sobre todo, que ejecuta.
 
-          p.mb-5 El diseño de la visión permite planear el futuro que desea alcanzar, identificar las metas que se quieren lograr, concretarlas en sus componentes, para, finalmente, plasmarlas sobre el papel, lo anterior constituirá la herramienta que servirá de guía en momentos en los que se deban sortear determinadas dificultades.
+          p.mb-3 El diseño de la visión permite planear el futuro que desea alcanzar, identificar las metas que se quieren lograr, concretarlas en sus componentes, para, finalmente, plasmarlas sobre el papel, lo anterior constituirá la herramienta que servirá de guía en momentos en los que se deban sortear determinadas dificultades.
+
+    p.mb-5 Cuando se construye la imagen de aquello que se desea ser, existen elementos que integran el cuadro completo. Aspectos como la familia, los amigos, el factor económico, el profesional, el aprendizaje y la formación, el plano espiritual o bien el ideológico, constituyen elementos que permiten construir la meta de aquello que deseamos ser. Cada uno de ellos se relaciona con los otros y bajo esta “fórmula magistral” diseñamos aquello que deseamos ser.
 
     .row.justify-content-center.align-items-center.mb-3
       .col-lg-8
@@ -123,19 +125,25 @@
           .row(numero="2" titulo="Identificar")
             .col-md-6
               figure
-                img(src='@/assets/curso/images/tema2/ico_5.svg', alt="", style="width:400px; display:block; margin:0 auto;")
-            .col-md-6.mb-4.mb-md-0   
-              p.mb-3 Las limitaciones externas y propias de cada persona siempre existen, lo que implica la necesidad de generar alternativas y opciones para tomar el mejor camino, de acuerdo con la situación. La clave está en cómo enfocar la dirección: en forma rutinaria, en forma general o de manera creativa. Todas son posibles, pero así son los resultados. 
-          .row(numero="2" titulo="Diseñar")
-            .col-md-6
-              figure
                 img(src='@/assets/curso/images/tema2/ico_6.svg', alt="", style="width:400px; display:block; margin:0 auto;")
             .col-md-6.mb-4.mb-md-0   
-              p.mb-3 El “cómo hacerlo”, muchas veces es el obstáculo. Este puede superarse con un enfoque creativo, aun haciendo o buscando lo que todos los demás hacen. Se puede reducir tiempo y esfuerzo, además de ser más efectivos, es decir, ser realmente estratégicos. 
-          .row(numero="2" titulo="Actuar")
+              p.mb-3 Las limitaciones externas y propias de cada persona siempre existen, lo que implica la necesidad de generar alternativas y opciones para tomar el mejor camino, de acuerdo con la situación. La clave está en cómo enfocar la dirección: en forma rutinaria, en forma general o de manera creativa. Todas son posibles, pero así son los resultados. 
+          .row(numero="3" titulo="Decidir")
+            .col-md-6
+              figure
+                img(src='@/assets/curso/images/tema2/ico_4.svg', alt="", style="width:400px; display:block; margin:0 auto;")
+            .col-md-6.mb-4.mb-md-0   
+              p.mb-3 Siempre llega el momento de decidir qué hacer, es decir, tomar una decisión combinando la necesidad de tomarla con las presiones y el contexto. Intervienen, además, la evaluación del riesgo y búsqueda de medios para reducirlo.  
+          .row(numero="4" titulo="Diseñar")
             .col-md-6
               figure
                 img(src='@/assets/curso/images/tema2/ico_7.svg', alt="", style="width:400px; display:block; margin:0 auto;")
+            .col-md-6.mb-4.mb-md-0   
+              p.mb-3 El “cómo hacerlo”, muchas veces es el obstáculo. Este puede superarse con un enfoque creativo, aun haciendo o buscando lo que todos los demás hacen. Se puede reducir tiempo y esfuerzo, además de ser más efectivos, es decir, ser realmente estratégicos. 
+          .row(numero="5" titulo="Actuar")
+            .col-md-6
+              figure
+                img(src='@/assets/curso/images/tema2/ico_8.svg', alt="", style="width:400px; display:block; margin:0 auto;")
             .col-md-6.mb-4.mb-md-0   
               p.mb-3 Se refiere a transformar las estrategias en acciones, es decir, “actuar”, “hacer”, uniendo activamente a la persona con el proyecto. Dejar el plano del pensamiento y “aterrizando” en la concreción.
 

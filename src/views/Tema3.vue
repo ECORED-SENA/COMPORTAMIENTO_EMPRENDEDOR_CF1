@@ -62,7 +62,7 @@
                 p.text-white <b>Habilidades:</b> capacidades que tiene una persona para hacer una actividad con destreza y facilidad. 
               li
                 i.text-white.fas.fa-angle-right
-                p.text-white <b>Actitud:</b> respuesta emocional frente a diferentes situaciones que se presentan en la vida
+                p.text-white <b>Actitud:</b> respuesta emocional frente a diferentes situaciones que se presentan en la vida.
               li
                 i.text-white.fas.fa-angle-right
                 p.text-white <b>Valores:</b> principios o virtudes que destacan a un individuo que considera valiosos y apoyan sus acciones.
@@ -96,8 +96,8 @@
     p.mb-5 Una herramienta bastante tradicional que permite analizar los factores internos y externos es el FODA. Aunque esta matriz es utilizada, generalmente, para diagnósticos empresariales, también resulta de gran utilidad para un análisis personal. 
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-md-8.col-lg-6.col-xl-8
-        img.img-a.my-3(src="@/assets/curso/images/tema3/img_3.svg" alt="", style="width:700px; display:block; margin:0 auto;") 
+      .col-12.col-md-8.col-lg-8.col-xl-10
+        img.img-a.my-3(src="@/assets/curso/images/tema3/cf1_foda.svg" alt="", style="width:1000px; display:block; margin:0 auto;") 
     
     .row.justify-content-center.align-items-center.mb-5
         .col-12.col-md-8.col-lg-6.col-xl-6

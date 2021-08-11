@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Elementos del comportamiento emprendedor',
     descripcionCurso:
-      'El emprender, en cualquier situación, plantea una serie de retos. Dos aspectos esenciales son la creatividad y la innovación para generar ideas que permitan encontrar nuevos caminos y maneras de solucionar diversas necesidades. Pero, ¿cómo se hace? Es necesario trazar una estrategia, es decir, un conjunto de acciones, que alineadas entre sí, conllevan al logro de la meta.',
+      'El fundamento de los procesos enseñanza-aprendizaje es la contextualización de la temática a trabajar; así, el propósito aquí es presentar los elementos clave del comportamiento emprendedor, desarrollados por David McClelland en los años 60 desde de la psicología, y basados en la definición de emprendimiento como una actitud que motiva a las personas hacia el logro de objetivos.',
     imagenBannerPrincipal: require('@/assets/curso/images/header/banner-principal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/images/header/fondo-banner-principal.png'),
   },
@@ -123,7 +123,7 @@ export default {
     {
       referencia: 'Monsalve, J. (2013). Jóvenes, talento y perfil emprendedor.',
       link:
-        ' http://www.injuve.es/conocenos/ediciones-injuve/guia-jovenes-talento-y-perfil-emprendedor',
+        'http://www.injuve.es/conocenos/ediciones-injuve/guia-jovenes-talento-y-perfil-emprendedor',
     },
     {
       referencia:
@@ -251,6 +251,12 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
+      {
+        nombre: 'Andrés Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
       //{
       //  nombre: 'Nombre',
       //  cargo: 'Producción audiovisual',
@@ -258,7 +264,7 @@ export default {
       //    'Centro Industrial del Diseño y la Manufactura Regional Santander',
       //},
       {
-        nombre: 'Nombre',
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
