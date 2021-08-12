@@ -208,7 +208,7 @@
 
     .row.justify-content-center.align-items-center.mt-5
         .col-12.col-md-8.col-lg-6.col-xl-6
-          img.img-a.my-3(src="@/assets/curso/images/tema3/img_9.svg" alt="", style="width:350px; display:block; margin:0 auto;") 
+          img.img-a.my-3(src="@/assets/curso/images/tema3/img_9.png" alt="", style="width:350px; display:block; margin:0 auto;") 
         .col-12.col-md-8.col-lg-6.col-xl-6
           p.mb-3 Finalmente, es donde se une la situación con el proyecto, pues solo en el contexto actual se pueden llevar a cabo acciones que guíen al cumplimiento de los proyectos. 
           
