@@ -106,7 +106,9 @@
 
     p.mb-3 Con la formulación de la visión emprendedora, se da el primer paso en desarrollar las competencias necesarias para el comportamiento emprendedor.
 
-    p.mb-5 El comportamiento emprendedor, dicho de manera sencilla, es la capacidad que tiene un individuo de asumir una tarea, perseverar en ella, desarrollarla y resolver cualquier contratiempo que se produjese en el camino. No es difícil ver, entonces, por qué el comportamiento emprendedor es una cualidad tan deseable en el mundo de hoy. 
+    p.mb-3 El comportamiento emprendedor, dicho de manera sencilla, es la capacidad que tiene un individuo de asumir una tarea, perseverar en ella, desarrollarla y resolver cualquier contratiempo que se produjese en el camino. No es difícil ver, entonces, por qué el comportamiento emprendedor es una cualidad tan deseable en el mundo de hoy. 
+
+    p.mb-5 Una persona emprendedora pone en práctica las siguientes competencias: 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-md-8.col-lg-6.col-xl-6

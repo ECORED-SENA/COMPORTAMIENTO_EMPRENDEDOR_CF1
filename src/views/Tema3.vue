@@ -97,7 +97,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-md-8.col-lg-8.col-xl-10
-        img.img-a.my-3(src="@/assets/curso/images/tema3/cf1_foda.svg" alt="", style="width:1000px; display:block; margin:0 auto;") 
+        img.img-a.my-3(src="@/assets/curso/images/tema3/cf1_foda-01.svg" alt="", style="width:1000px; display:block; margin:0 auto;") 
     
     .row.justify-content-center.align-items-center.mb-5
         .col-12.col-md-8.col-lg-6.col-xl-6
@@ -138,7 +138,7 @@
             img(src='@/assets/curso/images/tema3/ico_3.svg' alt='AvatarTop')
           .tarjeta.tarjeta--azul
             .p-4
-              h2 Persona: 
+              h2 Persona
               p Es donde se identifican las fortalezas y puntos de mejora a partir de las características personales de cada individuo, es lo que lo identifica y los recursos interiores con los que cuenta para lograr lo que se propone.
    
         .tarjeta-avatar-b.mb-5
