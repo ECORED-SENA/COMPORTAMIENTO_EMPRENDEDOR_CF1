@@ -11,12 +11,11 @@
     .row
       .col-12.col-md-8.col-lg-6.col-xl-6
         br
-        
+        br
+        br
         p.mb-3 Al referirse a la visión emprendedora se habla de cómo un emprendedor se proyecta en el futuro, lo que espera lograr en un tiempo determinado.
 
         p.mb-3 En este segundo tema, se profundizará acerca de los elementos que se deben tener en cuenta al momento de definir la visión emprendedora; uno de ellos es la motivación personal.
-
-        p Es momento de iniciar con el primer concepto: de acuerdo a lo planteado por Purkait et al. (2013) en la práctica, es imposible medir una variable con exactitud perfecta ya que siempre existirá una diferencia entre el valor medido con el instrumento y el valor real de la variable desconocida. Sin embargo, es posible determinar qué tan cerca o tal lejos se está de dicho valor real; la diferencia entre el valor real y el valor medido por el instrumento se denomina error absoluto.
         br
       
       .col-12.col-md-8.col-lg-6.col-xl-6.mb-5
@@ -108,7 +107,7 @@
 
     p.mb-3 El comportamiento emprendedor, dicho de manera sencilla, es la capacidad que tiene un individuo de asumir una tarea, perseverar en ella, desarrollarla y resolver cualquier contratiempo que se produjese en el camino. No es difícil ver, entonces, por qué el comportamiento emprendedor es una cualidad tan deseable en el mundo de hoy. 
 
-    p.mb-5 Una persona emprendedora pone en práctica las siguientes competencias: 
+    p.mb-5 <b> Una persona emprendedora pone en práctica las siguientes competencias: </b>
 
     .row.justify-content-center.align-items-center.mb-5
       .col-12.col-md-8.col-lg-6.col-xl-6

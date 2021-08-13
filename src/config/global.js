@@ -107,11 +107,6 @@ export default {
     },
     {
       referencia:
-        'McClelland, D. C. (1961). Characteristics of entrepreneurs. In D. C. McClelland, The achieving society (p. 259-300). D Van Nostrand Company.',
-      link: 'https://doi.org/10.1037/14359-0071',
-    },
-    {
-      referencia:
         'McClelland, D. C. (1961). Entrepreneurial behavior. In D. C. McClelland, The achieving society (p. 205-258). D Van Nostrand Company',
       link: 'https://doi.org/10.1037/14359-006',
     },
@@ -157,9 +152,9 @@ export default {
         'Identificación de la meta u objetivo que se planea alcanzar en el futuro. De manera simple la visión puede definirse como los sueños en acción. La visión une los deseos, las expectativas y las metas que desea lograr en su vida, en distintos órdenes y esferas, situados en el ámbito del trabajo..',
     },
     {
-      termino: 'Motivación:',
+      termino: 'Motivación',
       significado:
-        'Estado interno que incita, dirige y mantiene la conducta. Es el impulso y el esfuerzo para satisfacer un deseo o meta. .',
+        'Estado interno que incita, dirige y mantiene la conducta. Es el impulso y el esfuerzo para satisfacer un deseo o meta. ',
     },
     {
       termino: 'Triángulo de la responsabilidad',
@@ -180,7 +175,7 @@ export default {
       {
         nombre: 'Maria Camila Garcia Santamaria',
         cargo: 'Líder del equipo',
-        centro: 'Dirección general',
+        centro: 'Dirección General',
       },
     ],
     contenidoInstruccional: [
@@ -188,27 +183,27 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro industrial del diseño y la manufactura - Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'María Paula Gómez Franco',
         cargo: 'Coordinación Nacional de Emprendimiento',
-        centro: 'SENA. Dirección de empleo, trabajo y emprendimiento',
+        centro: 'Dirección de empleo, trabajo y emprendimiento - SENA',
       },
       {
         nombre: 'Genny Andrea García Pereira',
         cargo: 'Coordinación Nacional de Emprendimiento',
-        centro: 'SENA. Dirección de empleo, trabajo y emprendimiento.',
+        centro: 'Dirección de empleo, trabajo y emprendimiento - SENA',
       },
       {
         nombre: 'Luisa Fernanda Martínez Vega',
         cargo: 'Coordinación Nacional de Emprendimiento',
-        centro: 'SENA. Dirección de empleo, trabajo y emprendimiento.',
+        centro: 'SENA. Dirección de empleo, trabajo y emprendimiento - SENA',
       },
       {
         nombre: 'Dayra Maritza Paz Calderón',
         cargo: 'Diseñadora instruccional',
-        centro: 'Centro de diseño y metrología - Regional Distrito Capital',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
 
       {
@@ -219,12 +214,12 @@ export default {
       {
         nombre: 'Claudia Milena Hernández Naranjo',
         cargo: 'Diseñador Instruccional',
-        centro: 'Centro de diseño y metrología - Regional Distrito Capital',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
       {
         nombre: 'Carolina Coca Salazar',
         cargo: 'Revisora metodológica y pedagógica',
-        centro: 'Centro de diseño y metrología - Regional Distrito Capital',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -232,30 +227,30 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro industrial del diseño y la manufactura - Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro: 'Centro de comercio y servicios - Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'Luis Zenen Arévalo Mantilla',
         cargo: 'Diseño web',
         centro:
-          'Centro industrial del diseño y la manufactura - Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Gustavo Adolfo Marún Suárez',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Desarrollo front-end',
         centro:
-          'Centro industrial del diseño y la manufactura - Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Andrés Mauricio Santaella Ochoa',
         cargo: 'Soporte front-end',
         centro:
-          'Centro Industrial del Diseño y la manufactura - Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       //{
       //  nombre: 'Nombre',
@@ -267,14 +262,14 @@ export default {
         nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro industrial del diseño y la manufactura - Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de comercio y servicios - Regional Tolima',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],
   },
