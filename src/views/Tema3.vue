@@ -129,7 +129,7 @@
 
     p.mb-3 Este es el último elemento que se trabaja, pues combina, de cierta manera, los aspectos vistos en los temas anteriores de una forma sencilla para comprender las dimensiones emprendedoras y aplicarlas en la vida. 
 
-    p.mb-5 El triángulo de la responsabilidad está conformado por tres vértices, a saber: 
+    p.mb-5 <b>El triángulo de la responsabilidad está conformado por tres vértices, a saber: </b>
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
