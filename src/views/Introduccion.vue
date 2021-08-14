@@ -9,11 +9,12 @@
           i.fas.fa-info
       h1 Introducción
     p.mb-5 A continuación, se presenta el video que hará una breve introducción del presente componente formativo.
+
     figure.mb-5
       .row.justify-content-center.align-items-center.mb-3
         .col-12.col-md-8.col-lg-6.col-xl-10
           .video.mb-3 
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/h17aMhUau14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
             figcaption 
     
     p.mb-3 Antes de iniciar esta formación, es importante conocer el significado de la palabra emprendimiento, cuyo concepto proviene del término inglés <b> <i>entrepreneur</i> </b> que significa “pionero” que es una persona que tiene la capacidad de hacer un esfuerzo adicional para alcanzar una meta; alguien que comienza una travesía en busca de nuevos horizontes. 
