@@ -25,8 +25,8 @@
     .row.justify-content-center.align-items-center.mb-3
       .col-12.col-md-8.col-lg-6.col-xl-10
         .video.mb-3 
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/5wkief9wb7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-            figcaption    
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/5wkief9wb7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)              
+
     
     p.mb-5 El psicólogo estadounidense McClelland (1961) desarrolló la teoría de las necesidades, en la que se presentan tres tipos de necesidades que tienen los seres humanos en menor o mayor medida, las cuales son la fuente de su motivación, y guían a las personas al cumplimiento de sus objetivos:
 

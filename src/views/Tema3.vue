@@ -26,8 +26,7 @@
       .col-12.col-md-8.col-lg-6.col-xl-10
         .video.mb-3 
             iframe(width="560" height="315" src="https://www.youtube.com/embed/LHi0v6fhARM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-            figcaption             
-
+            
     p.mb-3 Una de las preguntas que guiaron el trabajo sobre el emprendimiento realizado por McClelland (1961) es: ¿Qué elementos influyen en el éxito de un emprendedor? Los rasgos de la personalidad tienen una importancia significativa, pero hay otros factores que van más allá de las características personales que interfieren en el éxito. 
 
     p.mb-5 De esta manera, hay factores internos y externos que influyen en el logro de objetivos como: 
