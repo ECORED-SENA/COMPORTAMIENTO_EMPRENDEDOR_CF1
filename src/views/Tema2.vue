@@ -57,7 +57,7 @@
 
     p.mb-3 Como se puede evidenciar, la mayoría de las características emprendedoras personales están ligadas a la motivación, al logro, por lo que los individuos que tienen como base dicha motivación tienen facilidad para trabajar en las otras características presentadas.
 
-    p.mb-5 Después de ver las características emprendedoras personales y analizar qué lo motiva a emprender, ahora se conocerá qué son los sueños y cómo estos pueden dar forma a la visión emprendedora
+    p.mb-5 Después de ver las características emprendedoras personales y analizar qué lo motiva a emprender, ahora se conocerá qué son los sueños y cómo estos pueden dar forma a la visión emprendedora.
 
     h5.mb-5 Los sueños
    

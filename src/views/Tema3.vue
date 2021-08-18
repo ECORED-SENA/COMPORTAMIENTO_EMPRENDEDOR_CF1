@@ -102,7 +102,7 @@
         .col-12.col-md-8.col-lg-6.col-xl-6
           img.img-a.my-3(src="@/assets/curso/images/tema3/img_4.png" alt="", style="width:400px; display:block; margin:0 auto;") 
         .col-12.col-md-8.col-lg-6.col-xl-6
-          p.mb-3 Teniendo en cuenta lo expuesto de los factores internos y externos, se invita a realizar un análisis personal, con respecto a los objetivos personales que haya identificado utilizando la matriz DOFA presentada anteriormente.  
+          p.mb-3 Teniendo en cuenta lo expuesto de los factores internos y externos, se invita a realizar un análisis personal, con respecto a los objetivos personales que haya identificado utilizando la matriz FODA presentada anteriormente.  
 
           .row
             .col-sm.mb-5.mb-sm-0
@@ -120,7 +120,7 @@
                   i.fas.fa-angle-right
                   p ¿Cuáles son las debilidades que se le presentan para el cumplimiento de sus objetivos?
 
-          p.mb-3 Esta actividad no es evaluativa, pero permitirá comprender mejor cómo realizar la matriz DOFA en un análisis personal. 
+          p.mb-3 Esta actividad no es evaluativa, pero permitirá comprender mejor cómo realizar la matriz FODA en un análisis personal. 
       
     h5.mb-3 Triángulo de la responsabilidad
 

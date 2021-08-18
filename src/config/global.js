@@ -82,7 +82,7 @@ export default {
       link: '',
     },
     {
-      referencia: 'Ariza, C. (2019). Pensar, sentir y actuar',
+      referencia: 'Ariza, C. (2019). Pensar, sentir y actuar. ',
       link: 'https://mejorapsicologia.com/pensar-sentir-actuar/',
     },
     {
@@ -103,34 +103,35 @@ export default {
     },
     {
       referencia:
-        'Hernández, E. (2014). Avances de Empretec® en Colombia, como programa para el fortalecimiento de las características del comportamiento emprendedor. Inventum, 9(16), 33-39.',
+        'Hernández, E. (2014). Avances de Empretec® en Colombia, como programa para el fortalecimiento de las características del comportamiento emprendedor. Inventum, 9(16), 33-39. ',
     },
     {
       referencia:
-        'McClelland, D. C. (1961). Entrepreneurial behavior. In D. C. McClelland, The achieving society (p. 205-258). D Van Nostrand Company',
+        'McClelland, D. C. (1961). Entrepreneurial behavior. In D. C. McClelland, The achieving society (p. 205-258). D Van Nostrand Company. ',
       link: 'https://doi.org/10.1037/14359-006',
     },
     {
       referencia:
-        'McClelland, D. C. (1965). N achievement and entrepreneurship: A longitudinal study. Journal of Personality and Social Psychology, 1(4), 389–392',
+        'McClelland, D. C. (1965). N achievement and entrepreneurship: A longitudinal study. Journal of Personality and Social Psychology, 1(4), 389–392. ',
       link: 'https://doi.org/10.1037/h0021956',
     },
     {
-      referencia: 'Monsalve, J. (2013). Jóvenes, talento y perfil emprendedor.',
+      referencia:
+        'Monsalve, J. (2013). Jóvenes, talento y perfil emprendedor. ',
       link:
         'http://www.injuve.es/conocenos/ediciones-injuve/guia-jovenes-talento-y-perfil-emprendedor',
     },
     {
       referencia:
-        'Pulgarín, S., y Cardona, M. (2011). Caracterización del comportamiento emprendedor para los estudiantes de administración de la Universidad del Rosario. Revista EAN, (71), 22-30..',
+        'Pulgarín, S., y Cardona, M. (2011). Caracterización del comportamiento emprendedor para los estudiantes de administración de la Universidad del Rosario. Revista EAN, (71), 22-30. ',
     },
     {
       referencia:
-        'Sánchez, J. (2011). Entrepreneurship as a legitimate field of knowledge. Psicothema, 23(3), 427-432.',
+        'Sánchez, J. (2011). Entrepreneurship as a legitimate field of knowledge. Psicothema, 23(3), 427-432. ',
     },
     {
       referencia:
-        'Universidad de Alicante. (2007). El pensamiento, Psicología Básica.',
+        'Universidad de Alicante. (2007). El pensamiento, Psicología Básica. ',
       link:
         'https://rua.ua.es/dspace/bitstream/10045/4298/5/TEMA%205.EL%20PENSAMIENTO.pdf',
     },
@@ -144,7 +145,7 @@ export default {
     {
       termino: 'Características emprendedoras personales',
       significado:
-        'Rasgos de la personalidad ligadas a las motivaciones de los individuos (logro, afiliación y poder) y que están asociadas al éxito de cualquier proyecto personal. Se basan en las investigaciones del psicólogo David McClelland realizadas en la década de los años 60. .',
+        'Rasgos de la personalidad ligadas a las motivaciones de los individuos (logro, afiliación y poder) y que están asociadas al éxito de cualquier proyecto personal. Se basan en las investigaciones del psicólogo David McClelland realizadas en la década de los años 60.',
     },
     {
       termino: 'Visión emprendedora',
